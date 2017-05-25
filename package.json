@@ -4,7 +4,8 @@
   "description": "This project shows how to get started with jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:update": "jest -u"
   },
   "keywords": [
     "jest"

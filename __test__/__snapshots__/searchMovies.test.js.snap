@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing searchMovies function by title 1`] = `
+Array [
+  Object {
+    "rating": "★",
+    "title": "Prometheus",
+    "year": "2012",
+  },
+]
+`;
+
+exports[`testing searchMovies function sequencial search 1`] = `
+Array [
+  Object {
+    "rating": "★★★★★",
+    "title": "Alien",
+    "year": "1979",
+  },
+  Object {
+    "rating": "★★★★★",
+    "title": "Aliens",
+    "year": "1986",
+  },
+  Object {
+    "rating": "★★",
+    "title": "Alien 3",
+    "year": "1992",
+  },
+  Object {
+    "rating": "★★",
+    "title": "Alien 4",
+    "year": "1979",
+  },
+  Object {
+    "rating": "★",
+    "title": "Alien: Covenant",
+    "year": "2017",
+  },
+]
+`;
+
+exports[`testing searchMovies function sequencial search 2`] = `
+Array [
+  Object {
+    "rating": "★★★★★",
+    "title": "Alien",
+    "year": "1979",
+  },
+  Object {
+    "rating": "★★★★★",
+    "title": "Aliens",
+    "year": "1986",
+  },
+  Object {
+    "rating": "★★",
+    "title": "Alien 3",
+    "year": "1992",
+  },
+  Object {
+    "rating": "★★",
+    "title": "Alien 4",
+    "year": "1979",
+  },
+  Object {
+    "rating": "★",
+    "title": "Alien: Covenant",
+    "year": "2017",
+  },
+]
+`;
+
+exports[`testing searchMovies function sequencial search 3`] = `
+Array [
+  Object {
+    "rating": "★★",
+    "title": "Alien 3",
+    "year": "1992",
+  },
+]
+`;
