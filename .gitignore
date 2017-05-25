@@ -1,0 +1,17 @@
+node_modules
+coverage
+.idea
+npm-debug.log
+spritesmith-generated
+html/dist
+.node-version
+.DS_Store
+.vscode
+*.orig
+.tern-project
+.flowconfig
+.*.un~
+storybook-static
+dist
+lib
+es

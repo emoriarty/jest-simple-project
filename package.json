@@ -1,0 +1,18 @@
+{
+  "name": "jest-getting-started",
+  "version": "1.0.0",
+  "description": "This project shows how to get started with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Enrique Moriarty",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^20.0.3",
+    "jest": "^20.0.4"
+  }
+}
