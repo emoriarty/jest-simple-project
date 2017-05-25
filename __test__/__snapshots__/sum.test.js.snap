@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing sum function 2 + 2 is equal to 4 1`] = `4`;
